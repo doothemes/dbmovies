@@ -16,4 +16,4 @@
 = 0.0.1 - 2019-02-28 =
 * Feature - Register post types
 * Feature - Register taxnomies
-* Feature - Register 
+* Feature - Application page
