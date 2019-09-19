@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://dbmvs.com/">
-    <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="Dbmovies">
+    <img src="https://cdn.doothemes.com/uploads/dbmovies.png" alt="Dbmovies">
   </a>
 </p>
