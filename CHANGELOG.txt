@@ -1,0 +1,19 @@
+= 1.0 - 2019-12-10 =
+* Initial Release
+
+= 0.0.3 - 2019-03-15 =
+* Tweak - Database Reports
+* Tweak - Database Requests
+* Tweak - Database Links
+* Tweak - Database Players
+
+= 0.0.2 - 2019-03-10 =
+* Feature - Reports Module
+* Feature - Requests Module
+* Feature - Link Sharing Module
+* Feature - Video Player Module
+
+= 0.0.1 - 2019-02-28 =
+* Feature - Register post types
+* Feature - Register taxnomies
+* Feature - Register 
