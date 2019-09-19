@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://dbmvs.com/">
+  <a href="https://dbmvs.com/?ref=github">
     <img src="https://cdn.doothemes.com/uploads/dbmovies.png" alt="Dbmovies">
   </a>
 </p>
 <p>Welcome to the Dbmovies repository on GitHub. Here you can browse the source, look at open issues and keep track of development. We recommend all developers to follow the <a href="#" target="_blank">Dbmovies development blog</a> to stay up to date about everything happening in the project. You can also <a href="#" target="_blank">follow @doothemes</a> on Twitter for the latest development updates.</p>
 
-<p>If you are not a developer, please use the <a href="#" target="_blank">Dbmovies plugin page on Dbmvs.com</a></p>
+<p>If you are not a developer, please use the Dbmovies plugin page on <a href="https://dbmvs.com/?ref=github" target="_blank">Dbmvs.com</a></p>
