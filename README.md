@@ -3,6 +3,10 @@
     <img src="https://cdn.doothemes.com/uploads/dbmovies.png" alt="Dbmovies">
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-0.5.8-blue">
+  <img src="https://img.shields.io/badge/Downloads-0-orange">
+</p>
 <p>Welcome to the Dbmovies repository on GitHub. Here you can browse the source, look at open issues and keep track of development. We recommend all developers to follow the <a href="#" target="_blank">Dbmovies development blog</a> to stay up to date about everything happening in the project. You can also <a href="#" target="_blank">follow @doothemes</a> on Twitter for the latest development updates.</p>
 
 <p>If you are not a developer, please use the Dbmovies plugin page on <a href="https://dbmvs.com/?ref=github" target="_blank">Dbmvs.com</a></p>
