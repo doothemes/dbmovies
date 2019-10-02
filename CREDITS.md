@@ -3,7 +3,7 @@
 * Jean Pierre (Desarrollo)
 * Brenda Mayuri (Coordinadora)
 
-## Framworks y recursos
+## Frameworks y recursos
 * WordPress
 * Codestar Framework
 * jQuery
