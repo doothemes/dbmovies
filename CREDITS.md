@@ -4,6 +4,8 @@
 * Brenda Mayuri (Coordinadora)
 
 ## Frameworks y recursos
-* WordPress
-* Codestar Framework
-* jQuery
+* [Themoviedb API](https://www.themoviedb.org/documentation/api)
+* [WordPress](https://wordpress.org/)
+* [Codestar Framework](http://codestarframework.com/)
+* [jQuery](https://jquery.com/)
+* [FontAwesome](https://fontawesome.com/)
