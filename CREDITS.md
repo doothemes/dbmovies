@@ -4,7 +4,8 @@ This project is a work created and financed by [Doothemes](https://doothemes.com
 * Erick Meza (developer)
 * Jean Pierre (developer)
 * Raul Quispe (developer)
-* Brenda Mayuri (manager)
+* Jose Gamonal (developer)
+* Andres Estrada (developer)
 
 ## Tersters
 * Joao Medez
@@ -13,7 +14,7 @@ This project is a work created and financed by [Doothemes](https://doothemes.com
 
 ## Frameworks ans sources
 * [Themoviedb API](https://www.themoviedb.org/documentation/api)
-* [WordPress](https://wordpress.org/)
-* [Codestar Framework](http://codestarframework.com/)
+* [WordPress](https://wordpress.org/)  ⚙️
+* [Codestar Framework](https://github.com/Codestar/codestar-framework)  ⚙️
 * [jQuery](https://jquery.com/)
 * [FontAwesome](https://fontawesome.com/)
