@@ -1,9 +1,12 @@
 ## Colaboradores
-* Erick Meza (Desarrollo)
-* Jean Pierre (Desarrollo)
-* Brenda Mayuri (Coordinadora)
+* Erick Meza (developer)
+* Jean Pierre (developer)
+* Brenda Mayuri (manager)
+* Joao Medez (tester)
+* Julian Andersom (tester)
+* Robert Sosa (tester)
 
-## Frameworks y recursos
+## Frameworks ans sources
 * [Themoviedb API](https://www.themoviedb.org/documentation/api)
 * [WordPress](https://wordpress.org/)
 * [Codestar Framework](http://codestarframework.com/)
