@@ -24,4 +24,4 @@ This repository is not suitable for support. Please don't use our issue tracker 
 * The [Dbmvs.com premium support portal](#) for customers who have purchased themes or extensions.
 * [Our community forum on doothemes.com](#) which is available for all Doothemes users.
 * The Dbmovies Help and Share [Facebook group](#).
-* For customizations, you may want to check our list of [Experts](#) or [Doothemes Forums](#).
+* For customizations, you may want to check our list of [Experts](#) or [Doothemes Forums](#)
