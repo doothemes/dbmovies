@@ -8,7 +8,7 @@ This project is a work created and financed by [Doothemes](https://doothemes.com
 * Andres Estrada
 
 ## Tersters
-* Joao Medez
+* Joao Mendez
 * Julian Anderson
 * Robert Sosa
 * Cecilia Tenorio
